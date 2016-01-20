@@ -30,7 +30,7 @@ To run and be prompted for input
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'arithmetic'#, git: ''
+gem 'arithmetic', git: 'git@github.com:lacostenycoder/arithmetic.git'
 ```
 
 And then execute:
@@ -39,7 +39,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install arithmetic, git: path/to/this/repo.git
+    $ gem install arithmetic, git: git@github.com:lacostenycoder/arithmetic.git
 
 ## Usage
 
