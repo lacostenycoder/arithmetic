@@ -19,27 +19,16 @@ Write a calculator that can compute simple arithmetic encoded as strings. For in
 To complete this assignment fork this Gist and provide your completed work. No more than a few hours should be spent on this. Try to be as complete as possible, but the purpose is more to facilitate a discussion. Feel free to use any language of choice, though Ruby or JavaScript are preferable.
 
 
+## Installation
+Clone the repo and run or install locally.  Not published to rubygems as this is for demo purposes only.
+		$ git clone https://github.com/lacostenycoder/arithmetic.git
+
+
 ## To Run Code
 To run from command line with arguments browse to root of project and run
 		$ ruby lib/arithmetic.rb ['your math wrapped in quotes']
 To run and be prompted for input
 		$ ruby lib/app.rb
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'arithmetic', git: 'git@github.com:lacostenycoder/arithmetic.git'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install arithmetic, git: git@github.com:lacostenycoder/arithmetic.git
 
 ## Usage
 
